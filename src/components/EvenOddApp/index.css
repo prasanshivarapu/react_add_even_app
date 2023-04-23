@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.greet1 {
+  height: 100vh;
+  background-color: aqua;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.greet2 {
+  min-height: 200px;
+  min-width: 200px;
+  text-align: center;
+  border: solid;
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+}
